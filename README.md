@@ -5,7 +5,7 @@
 ### Textos
 ```html
 text-{color}-{shade}
-
+```
 Ejemplo:
 text-red-500: Texto de color rojo con una intensidad de 500.
 
