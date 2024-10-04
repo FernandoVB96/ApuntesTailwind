@@ -6,7 +6,9 @@
 ```html
 text-{color}-{shade}
 
-#### Ejemplos:
-
+Ejemplo:
 text-red-500: Texto de color rojo con una intensidad de 500.
-text-blue-700: Texto de color azul con una intensidad de 700.
+
+bg-{color}-{shade}
+Ejemplo:
+bg-green-300: Fondo verde con una intensidad de 300.
