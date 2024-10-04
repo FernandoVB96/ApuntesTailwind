@@ -24,9 +24,9 @@ text-{size}
 ```
 Ejemplos:
 
-text-xs: Fuente muy pequeña.
-text-lg: Fuente grande.
-text-4xl: Fuente extra grande.
+text-xs: Fuente muy pequeña.  
+text-lg: Fuente grande.  
+text-4xl: Fuente extra grande.  
 
 ### Grosor de Fuente
 ```html
@@ -34,9 +34,9 @@ font-{weight}
 ```
 Ejemplos:
 
-font-thin: Fuente delgada.
-font-bold: Fuente negrita.
-font-black: Fuente extra negrita.
+font-thin: Fuente delgada.  
+font-bold: Fuente negrita.  
+font-black: Fuente extra negrita.  
 
 ### Alineación de Texto
 ```html
@@ -44,9 +44,9 @@ text-{alignment}
 ```
 Ejemplos:
 
-text-left: Alinear texto a la izquierda.
-text-center: Centrar texto.
-text-right: Alinear texto a la derecha.
+text-left: Alinear texto a la izquierda.  
+text-center: Centrar texto.  
+text-right: Alinear texto a la derecha.  
 
 ## 3. Espaciados
 
@@ -58,9 +58,9 @@ my-{size} // solo en los ejes y (vertical)
 ```
 Ejemplos:
 
-m-4: Margen de 1 rem.
-mx-2: Margen horizontal de 0.5 rem.
-my-6: Margen vertical de 1.5 rem.
+m-4: Margen de 1 rem.  
+mx-2: Margen horizontal de 0.5 rem.  
+my-6: Margen vertical de 1.5 rem.  
 
 ### Padding (Relleno)
 ```html
@@ -70,9 +70,9 @@ py-{size} // solo en los ejes y (vertical)
 ```
 Ejemplos:
 
-p-2: Padding de 0.5 rem.
-px-3: Padding horizontal de 0.75 rem.
-py-4: Padding vertical de 1 rem.
+p-2: Padding de 0.5 rem.  
+px-3: Padding horizontal de 0.75 rem.  
+py-4: Padding vertical de 1 rem.  
 
 ## 4. Dimensiones
 
@@ -83,9 +83,9 @@ w-{size}
 ```
 Ejemplos:
 
-w-1/2: Ancho del 50%.
-w-full: Ancho del 100%.
-w-96: Ancho de 24 rem.
+w-1/2: Ancho del 50%.  
+w-full: Ancho del 100%.  
+w-96: Ancho de 24 rem.  
 
 ### Altura (Height)
 ```html
@@ -93,8 +93,8 @@ h-{size}
 ```
 Ejemplos:
 
-h-64: Altura de 16 rem.
-h-screen: Altura completa de la pantalla.
+h-64: Altura de 16 rem.  
+h-screen: Altura completa de la pantalla.  
 
 ## 5. Bordes
 
@@ -105,8 +105,8 @@ border-{color}-{shade}}
 ```
 Ejemplos:
 
-border-2: Borde de 2px.
-border-red-500: Borde de color rojo con intensidad 500.
+border-2: Borde de 2px.  
+border-red-500: Borde de color rojo con intensidad 500.  
 
 ### Bordes Redondeados
 ```html
@@ -114,8 +114,8 @@ rounded-{size}
 ```
 Ejemplos:
 
-rounded-sm: Bordes ligeramente redondeados.
-rounded-full: Bordes completamente redondeados (círculo).
+rounded-sm: Bordes ligeramente redondeados.  
+rounded-full: Bordes completamente redondeados (círculo).  
 
 ## 6. Flexbox y Grid
 
@@ -127,9 +127,9 @@ items-{alignment}
 ```
 Ejemplos:
 
-flex: Convertir un contenedor en un flexbox.
-justify-center: Centrar elementos horizontalmente.
-items-center: Centrar elementos verticalmente.
+flex: Convertir un contenedor en un flexbox.  
+justify-center: Centrar elementos horizontalmente.  
+items-center: Centrar elementos verticalmente.  
 
 ### Grid
 ```html
@@ -139,9 +139,9 @@ gap-{size}
 ```
 Ejemplos:
 
-grid: Crear un contenedor de grid.
-grid-cols-3: Crear una cuadrícula con 3 columnas.
-gap-4: Establecer una separación de 1 rem entre los elementos del grid.
+grid: Crear un contenedor de grid.  
+grid-cols-3: Crear una cuadrícula con 3 columnas.  
+gap-4: Establecer una separación de 1 rem entre los elementos del grid.  
 
 ## 7. Sombras
 ```html
@@ -149,8 +149,8 @@ shadow-{size}
 ```
 Ejemplos:
 
-shadow-sm: Sombra pequeña.
-shadow-lg: Sombra grande.
+shadow-sm: Sombra pequeña.  
+shadow-lg: Sombra grande.  
 
 ## 8. Opacidad
 ```html
@@ -158,8 +158,8 @@ opacity-{percentage}
 ```
 Ejemplos:
 
-opacity-50: 50% de opacidad.
-opacity-100: Opacidad completa (100%).
+opacity-50: 50% de opacidad.  
+opacity-100: Opacidad completa (100%).  
 
 
 
