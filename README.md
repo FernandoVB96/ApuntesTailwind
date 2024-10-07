@@ -42,9 +42,9 @@ Ejemplos:
 
 | Clase      | Descripción             |
 |------------|-------------------------|
-| `text-xs`  | Fuente muy pequeña       |
-| `text-lg`  | Fuente grande            |
-| `text-4xl` | Fuente extra grande      |
+| `text-xs`  | Fuente muy pequeña(12px)|
+| `text-lg`  | Fuente grande(18px)     |
+| `text-4xl` | Fuente extra grande(36px)|
 
 ### Grosor de Fuente
 ```html
@@ -54,9 +54,9 @@ Ejemplos:
 
 | Clase        | Descripción             |
 |--------------|-------------------------|
-| `font-thin`  | Fuente delgada           |
-| `font-bold`  | Fuente negrita           |
-| `font-black` | Fuente extra negrita     |
+| `font-thin`  | Fuente delgada          |
+| `font-bold`  | Fuente negrita          |
+| `font-black` | Fuente extra negrita    |
 
 ### Alineación de Texto
 ```html
@@ -66,7 +66,7 @@ Ejemplos:
 
 | Clase         | Descripción                         |
 |---------------|-------------------------------------|
-| `text-left`   | Alinear texto a la izquierda         |
+| `text-left`   | Alinear texto a la izquierda        |
 | `text-center` | Centrar texto                       |
 | `text-right`  | Alinear texto a la derecha          |
 
@@ -84,9 +84,9 @@ Ejemplos:
 
 | Clase  | Descripción                           |
 |--------|---------------------------------------|
-| `m-4`  | Margen de 1 rem                       |
-| `mx-2` | Margen horizontal de 0.5 rem          |
-| `my-6` | Margen vertical de 1.5 rem            |
+| `m-4`  | Margen de 16px                        |
+| `mx-2` | Margen horizontal de 8px              |
+| `my-6` | Margen vertical de 24px               |
 
 ### Padding (Relleno)
 ```html
@@ -98,9 +98,9 @@ Ejemplos:
 
 | Clase  | Descripción                             |
 |--------|-----------------------------------------|
-| `p-2`  | Padding de 0.5 rem                      |
-| `px-3` | Padding horizontal de 0.75 rem          |
-| `py-4` | Padding vertical de 1 rem               |
+| `p-2`  | Padding de 8px                          |
+| `px-3` | Padding horizontal de 12px              |
+| `py-4` | Padding vertical de 16px                |
 
 ---
 
@@ -116,7 +116,7 @@ Ejemplos:
 |----------|-------------------------|
 | `w-1/2`  | Ancho del 50%           |
 | `w-full` | Ancho del 100%          |
-| `w-96`   | Ancho de 24 rem         |
+| `w-100`  | Ancho de 400px          |
 
 ### Altura (Height)
 ```html
@@ -126,7 +126,7 @@ Ejemplos:
 
 | Clase      | Descripción                  |
 |------------|------------------------------|
-| `h-64`     | Altura de 16 rem              |
+| `h-64`     | Altura de 256px              |
 | `h-screen` | Altura completa de la pantalla|
 
 ---
@@ -186,7 +186,7 @@ Ejemplos:
 |-----------------|----------------------------------------------|
 | `grid`          | Crear un contenedor de grid                  |
 | `grid-cols-3`   | Crear una cuadrícula con 3 columnas          |
-| `gap-4`         | Separación de 1 rem entre los elementos del grid |
+| `gap-4`         | Separación de 16px entre los elementos del grid|
 
 ---
 
